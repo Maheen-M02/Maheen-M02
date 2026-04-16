@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=maheen-m02&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+## 🧩 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ---
 
 ## 🧠 About Me
@@ -67,14 +76,7 @@
 
 ---
 
-## 🧩 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/Trimulia02/Trimulia02/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 🌐 Connect With Me
 
