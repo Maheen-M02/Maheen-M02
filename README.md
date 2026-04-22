@@ -30,15 +30,15 @@
 
 ✨ *Projects that define my skillset*
 
-- 🤖 **AI Interviewer Voice Avatar**  
-  → Real-time AI interviewer with voice interaction
+## 🚀 Projects
 
-- 📦 **NexStock (AI Inventory System)**  
-  → Voice-controlled smart inventory with AWS + ML  
+| 📦 NexStock | 🤖 AI Recruiter |
+|------------|----------------|
+| **NexStock – AI Inventory System** <br> Voice-controlled inventory system using AWS (RDS, Transcribe, Polly) with ML-based insights. Improved efficiency by **60%+**. <br><br> ![AWS](https://img.shields.io/badge/AWS-orange) ![Node.js](https://img.shields.io/badge/Node.js-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) | **AI Voice Avatar Recruiter** <br> Real-time AI interviewer with speech synthesis and NLP. Generates structured evaluations, reducing screening time by **60%**. <br><br> ![Python](https://img.shields.io/badge/Python-blue) ![Speech](https://img.shields.io/badge/Speech_AI-black) ![NLP](https://img.shields.io/badge/NLP-green) |
 
-- 🔐 **Blockchain-based Inventory Logs**  
-  → Tamper-proof logging using SHA256-style hashing  
-
+| 🧠 TwinMind | 🌐 Smart Governance AI |
+|------------|----------------------|
+| **TwinMind – Digital Twin System** <br> Predictive maintenance system using FastAPI, React, and XGBoost with **~90%+ accuracy**. Reduced downtime by **30–50%**. <br><br> ![FastAPI](https://img.shields.io/badge/FastAPI-green) ![React](https://img.shields.io/badge/React-blue) ![XGBoost](https://img.shields.io/badge/XGBoost-orange) | **Citizen-Centric AI Platform** <br> Multi-channel civic issue platform with AI triage (NLP + image analysis), reducing manual effort by **~80%**. <br><br> ![React](https://img.shields.io/badge/React-blue) ![Supabase](https://img.shields.io/badge/Supabase-green) ![AI](https://img.shields.io/badge/AI-black) |
 ---
 
 ## 🛠️ Tech Stack
