@@ -30,7 +30,6 @@
 
 ✨ *Projects that define my skillset*
 
-## 🚀 Projects
 
 | 📦 NexStock | 🤖 AI Recruiter |
 |------------|----------------|
